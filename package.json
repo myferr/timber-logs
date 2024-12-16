@@ -1,0 +1,25 @@
+{
+  "name": "timber-logs",
+  "version": "1.0.1",
+  "description": "A simple logging utility for Node.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myferr/timber-logs.git"
+  },
+  "keywords": [
+    "lib",
+    "logging"
+  ],
+  "author": "myfer <contactme.myfer@protonmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myferr/timber-logs/issues"
+  },
+  "homepage": "https://github.com/myferr/timber-logs#readme"
+}
